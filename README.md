@@ -1,3 +1,6 @@
+This project was made with reference of JSMastery Youtube Portfolio design and I will make FUTURE PORTFOLIO PROJECTS with help of THREE JS AND REACT VITE all on my own this project was to just increase my skill level in REACT AND THREE JS
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
